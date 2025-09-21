@@ -30,9 +30,9 @@ I’m **Muntaha** — a **Mathematician, AI Enthusiast, and Developer** who love
   - Teaching, tutoring, and research writing  
 
 - 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](#)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  https://www.linkedin.com/in/muntaha-khalid-696b202a9/
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)  muntahakhalid202@gmail.com
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](#)  https://github.com/Muntaha120
 
 - ⚡ Fun fact:  
   I love exploring how **fashion-tech, e-commerce, and AI** can work together 🚀  
